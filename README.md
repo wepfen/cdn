@@ -1,1 +1,1 @@
-To use file in it : https://raw.githack.com/
+To us, put a file in this : https://raw.githack.com/
